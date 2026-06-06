@@ -6,11 +6,11 @@ A comprehensive, multi-dimensional business intelligence dashboard engineered in
 
 ## 📊 DashBoard overview
 
-<img width="1751" height="561" alt="Capture" src="https://github.com/user-attachments/assets/6f6c61e2-d5ba-48c2-9e49-ef6f9d77795f" />
+<img width="1756" height="587" alt="Capture" src="https://github.com/user-attachments/assets/69d0caca-a2e9-4a68-838c-5cc6bc8354e2" />
 
 ---
 
-<img width="1751" height="553" alt="Capture2" src="https://github.com/user-attachments/assets/99ba0eb0-9e73-4842-8592-862629cbc6be" />
+<img width="1767" height="584" alt="Capture2" src="https://github.com/user-attachments/assets/152a622f-2baf-4446-8b73-e8bcd014b7ec" />
 
 ---
 
